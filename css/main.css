@@ -29,7 +29,7 @@
 
 .home__name--last {
   color: #ff652f;
-  font-weight: 700;
+  font-weight: 100;
 }
 
 .menu-btn {
@@ -483,6 +483,13 @@
 }
 
 @media screen and (min-width: 1024px) {
+  .home__name {
+    font-size: 4rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #fff;
+  }
   .projects__items {
     -ms-grid-columns: (1fr) [3];
     grid-template-columns: repeat(3, 1fr);
@@ -509,7 +516,7 @@ body {
 h1,
 h2,
 h3 {
-  font-weight: 400;
+  font-weight: 300;
 }
 
 a {
