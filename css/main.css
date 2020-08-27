@@ -21,7 +21,7 @@
 }
 
 .home__name {
-  font-size: 5rem;
+  font-size: 2rem;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border-bottom: 2px solid #fff;
@@ -200,7 +200,7 @@
 }
 
 .about__bio-image {
-  height: 50vh;
+  height: 60vh;
   width: 100%;
   background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.95)), to(rgba(39, 39, 39, 0.8))),
     url("./../img/temp.jpg") center top;
