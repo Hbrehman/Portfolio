@@ -200,7 +200,7 @@
 }
 
 .about__bio-image {
-  height: 90vh;
+  height: 80vh;
   width: 100%;
   background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.95)), to(rgba(39, 39, 39, 0.8))),
     url("./../img/temp.jpg") center top;
@@ -403,7 +403,7 @@
 
 .contact {
   height: 100%;
-  padding-top: 35vh;
+  padding-top: 15vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -492,6 +492,11 @@
   }
   .about__bio-image {
     height: 50vh;
+  }
+  .contact {
+    height: 100%;
+    padding-top: 25vh;
+    padding-bottom: 5vh;
   }
   .projects__items {
     -ms-grid-columns: (1fr) [3];
