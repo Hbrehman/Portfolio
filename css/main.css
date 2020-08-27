@@ -200,7 +200,7 @@
 }
 
 .about__bio-image {
-  height: 80vh;
+  height: 70vh;
   width: 100%;
   background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.95)), to(rgba(39, 39, 39, 0.8))),
     url("./../img/temp.jpg") center top;
