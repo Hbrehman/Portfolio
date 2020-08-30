@@ -236,6 +236,7 @@
 .about__bio .text-secondary {
   color: #ff652f !important;
   padding-bottom: 1rem;
+  font-size: 1rem;
 }
 
 .about .jobs {
